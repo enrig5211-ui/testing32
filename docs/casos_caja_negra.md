@@ -267,7 +267,7 @@ Ambiente: navegador de escritorio; sitio de demostración.
 
 | Dato | Valor | Origen | Observación |
 |---|---|---|---|
-| Datos utilizados | Backpack $29.99; Jose / Tester; código 00000; datos ficticios. | Preparados para la prueba | Ver detalle del caso |
+| Datos utilizados | Backpack $29.99; Test / Usuario; código 00000; datos ficticios. | Preparados para la prueba | Ver detalle del caso |
 
 #### Pasos y resultados esperados
 
@@ -307,3 +307,4 @@ Ambiente: navegador de escritorio; sitio de demostración.
 | Desviación encontrada | Ninguna. |
 | Referencia del defecto | N/A - no se encontró defecto reproducible. |
 | Observaciones | Flujo de demostración; no hubo transacción comercial. |
+
